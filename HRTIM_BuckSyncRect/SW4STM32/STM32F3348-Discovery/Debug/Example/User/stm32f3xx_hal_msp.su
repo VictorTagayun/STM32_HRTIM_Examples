@@ -1,0 +1,2 @@
+stm32f3xx_hal_msp.c:63:6:HAL_HRTIM_MspInit	80	static
+stm32f3xx_hal_msp.c:102:6:HAL_ADC_MspInit	48	static
